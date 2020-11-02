@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GOSSELIN</string>
+    <string name="title_activity_scrolling">GOSSELIN</string>
+    <string name="large_text">
+        "What we move\n\n"
+    </string>
+    <string name="desp_wwmv">
+        "Wether it's exceptionally large or small"
+        "as a paperclip: anything you own can have a big impact on your new life.\n"
+        "Whatever you'll bring to your new destination, consider it in safe hands.\n"
+    </string>
+    <string name="hwmv">
+        "How we move\n\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

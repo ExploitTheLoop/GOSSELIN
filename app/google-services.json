@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728346289593",
+    "firebase_url": "https://gosselin-b0cd2.firebaseio.com",
+    "project_id": "gosselin-b0cd2",
+    "storage_bucket": "gosselin-b0cd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728346289593:android:86b4af4fdeb3b87e2bc268",
+        "android_client_info": {
+          "package_name": "com.pvt.gosselin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728346289593-fma3j8ojklrii3jgiivldh79dp1l0nrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pvt.gosselin",
+            "certificate_hash": "69b2949157dc0b1248b84e5ebf5998ddd998d561"
+          }
+        },
+        {
+          "client_id": "728346289593-fpn43q3mq3evvhev6e4ekoqjedenj8mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybLjTr6OtmP_9AFp8tgfa6VZ1VVSnG9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728346289593-fpn43q3mq3evvhev6e4ekoqjedenj8mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
